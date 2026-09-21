@@ -38,17 +38,17 @@ I will use Java for the main programming, JavaFX for the user interface, and SQL
 2. GitHub Issues
 After you save Requirements.md, go to Issues on GitHub.
 You will create 7 separate Issues. Put one of these in each Issue:
-Issue 1 — Submit a Ticket
+Issue 1) Submit a Ticket
 As a user, I want to submit an IT help ticket so that I can report a computer or technology problem.
-Issue 2 — Receive Ticket ID
+Issue 2) Receive Ticket ID
 As a user, I want my ticket to have an ID so that my problem can be identified and tracked.
-Issue 3 — Check Ticket Status
+Issue 3)  Check Ticket Status
 As a user, I want to see the status of my ticket so that I know if my problem is being worked on or has been resolved.
-Issue 4 — View Tickets
+Issue 4)  View Tickets
 As an IT administrator, I want to view submitted tickets so that I can see which users need help.
-Issue 5 — View Ticket Information
+Issue 5)  View Ticket Information
 As an IT administrator, I want to see the user's name and problem description so that I understand the problem.
-Issue 6 — Update Ticket Status
+Issue 6) Update Ticket Status
 As an IT administrator, I want to change a ticket's status to New, In Progress, or Resolved so that I can keep track of the work being done.
-Issue 7 — Save Tickets
+Issue 7) Save Tickets
 As an IT administrator, I want tickets to be saved in the database so that ticket information is not lost when the program closes.
