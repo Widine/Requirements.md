@@ -46,7 +46,7 @@ Issue 3)  Check Ticket Status
 As a user, I want to see the status of my ticket so that I know if my problem is being worked on or has been resolved.
 Issue 4)  View Tickets
 As an IT administrator, I want to view submitted tickets so that I can see which users need help.
-Issue 5)  View Ticket Information
+Issue 5)  View Ticket Information 
 As an IT administrator, I want to see the user's name and problem description so that I understand the problem.
 Issue 6) Update Ticket Status
 As an IT administrator, I want to change a ticket's status to New, In Progress, or Resolved so that I can keep track of the work being done.
